@@ -1,4 +1,4 @@
 alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
-rancher/mirrored-flannelcni-flannel-cni-plugin:v1.0.1
+istiod
